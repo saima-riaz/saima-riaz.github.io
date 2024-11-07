@@ -27,8 +27,8 @@ In this project, CSS is used to style a single-page website with a modern look a
 - Clean, Modern Aesthetic: A polished design focused on usability and visual appeal.
 
 ### 📂 Project Structure
-[index.html](https://github.com/saima-riaz/saima-riaz.github.io/blob/main/index.html)
-[styles.css](https://github.com/saima-riaz/saima-riaz.github.io/blob/main/styles.css)
+- [index.html](https://github.com/saima-riaz/saima-riaz.github.io/blob/main/index.html)
+- [styles.css](https://github.com/saima-riaz/saima-riaz.github.io/blob/main/styles.css)
 
 ---
 
